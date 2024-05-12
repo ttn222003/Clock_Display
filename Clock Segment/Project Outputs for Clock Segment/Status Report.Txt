@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Clock Segment.PrjPcb]
+   Generated File[Clock Segment.TXT]
+   Generated File[Clock Segment.LDP]
+   Generated File[Clock Segment.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 6:06:46 PM On 7/27/2023

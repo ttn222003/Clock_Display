@@ -1,0 +1,9 @@
+Added Component: Designator=P1(HDR_M_6_Pins_2.54)
+Added Pin To Net: NetName=DATA1 Pin=P1-1
+Added Pin To Net: NetName=LAT1 Pin=P1-2
+Added Pin To Net: NetName=CLK1 Pin=P1-3
+Added Pin To Net: NetName=B1 Pin=P1-4
+Added Pin To Net: NetName=B2 Pin=P1-5
+Added Pin To Net: NetName=LED1 Pin=P1-6
+Added Member To Class: ClassName=Clock Segment Member=Component P1 Header_1*6_Pins
+Added Room: Name=Clock Segment

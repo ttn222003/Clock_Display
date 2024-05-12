@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=DATA1 Pin=U1-9
+Added Pin To Net: NetName=LAT1 Pin=U1-10
+Added Pin To Net: NetName=CLK1 Pin=U1-11
+Added Room: Name=Clock Segment

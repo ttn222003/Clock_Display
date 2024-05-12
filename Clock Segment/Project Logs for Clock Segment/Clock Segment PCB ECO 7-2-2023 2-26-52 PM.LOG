@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=VO Pin=R1-1
+Removed Pin From Net: NetName=CLK2 Pin=U1-31
+Added Pin To Net: NetName=LED4 Pin=R1-1
+Added Pin To Net: NetName=LED4 Pin=U1-31
+Added Net: Name=LED4
+Added Room: Name=Clock Segment

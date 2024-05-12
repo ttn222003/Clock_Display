@@ -1,0 +1,23 @@
+--cpu Cortex-M3
+"dht11 - clock segment\startup_stm32f103xb.o"
+"dht11 - clock segment\main.o"
+"dht11 - clock segment\stm32f1xx_it.o"
+"dht11 - clock segment\stm32f1xx_hal_msp.o"
+"dht11 - clock segment\stm32f1xx_hal_gpio_ex.o"
+"dht11 - clock segment\stm32f1xx_hal_tim.o"
+"dht11 - clock segment\stm32f1xx_hal_tim_ex.o"
+"dht11 - clock segment\stm32f1xx_hal.o"
+"dht11 - clock segment\stm32f1xx_hal_rcc.o"
+"dht11 - clock segment\stm32f1xx_hal_rcc_ex.o"
+"dht11 - clock segment\stm32f1xx_hal_gpio.o"
+"dht11 - clock segment\stm32f1xx_hal_dma.o"
+"dht11 - clock segment\stm32f1xx_hal_cortex.o"
+"dht11 - clock segment\stm32f1xx_hal_pwr.o"
+"dht11 - clock segment\stm32f1xx_hal_flash.o"
+"dht11 - clock segment\stm32f1xx_hal_flash_ex.o"
+"dht11 - clock segment\stm32f1xx_hal_exti.o"
+"dht11 - clock segment\system_stm32f1xx.o"
+--strict --scatter "DHT11 - CLock Segment\DHT11 - CLock Segment.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "DHT11 - CLock Segment.map" -o "DHT11 - CLock Segment\DHT11 - CLock Segment.axf"

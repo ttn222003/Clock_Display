@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=GND Pin=B2-1
+Added Member To Class: ClassName=Clock Segment Member=Component R10 Resistor
+Added Member To Class: ClassName=Clock Segment Member=Component R11 Resistor
+Added Member To Class: ClassName=Clock Segment Member=Component R12 Resistor
+Added Room: Name=Clock Segment

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=BUTTON1 Pin=U1-11
+Removed Pin From Net: NetName=BUTTON2 Pin=U1-12
+Removed Pin From Net: NetName=BUTTON3 Pin=U1-13
+Removed Pin From Net: NetName=CLK1 Pin=U1-26
+Removed Pin From Net: NetName=LAT1 Pin=U1-27
+Removed Pin From Net: NetName=DATA1 Pin=U1-28
+Added Pin To Net: NetName=CLK1 Pin=U1-11
+Added Pin To Net: NetName=LAT1 Pin=U1-12
+Added Pin To Net: NetName=DATA1 Pin=U1-13
+Added Room: Name=Clock Segment

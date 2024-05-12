@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=LED1 Pin=D11-1
+Removed Pin From Net: NetName=LED2 Pin=D12-1
+Removed Pin From Net: NetName=LED3 Pin=D13-1
+Change Component Designator: OldDesignator=R10 NewDesignator=R13
+Change Component Designator: OldDesignator=R11 NewDesignator=R14
+Change Component Designator: OldDesignator=R12 NewDesignator=R15
+Change Component Designator: OldDesignator=R13 NewDesignator=R16
+Change Component Designator: OldDesignator=R14 NewDesignator=R17
+Change Component Designator: OldDesignator=R15 NewDesignator=R18
+Change Component Designator: OldDesignator=R16 NewDesignator=R19
+Change Component Designator: OldDesignator=R17 NewDesignator=R20
+Change Component Designator: OldDesignator=R18 NewDesignator=R21
+Change Component Designator: OldDesignator=R19 NewDesignator=R22
+Change Component Designator: OldDesignator=R20 NewDesignator=R23
+Change Component Designator: OldDesignator=R21 NewDesignator=R24
+Change Component Designator: OldDesignator=R22 NewDesignator=R25
+Change Component Designator: OldDesignator=R23 NewDesignator=R26
+Change Component Designator: OldDesignator=R24 NewDesignator=R27
+Change Component Designator: OldDesignator=R25 NewDesignator=R28
+Change Component Designator: OldDesignator=R26 NewDesignator=R29
+Change Component Designator: OldDesignator=R27 NewDesignator=R30
+Change Component Designator: OldDesignator=R28 NewDesignator=R31
+Change Component Designator: OldDesignator=R29 NewDesignator=R32
+Change Component Designator: OldDesignator=R30 NewDesignator=R33
+Change Component Designator: OldDesignator=R31 NewDesignator=R34
+Change Component Designator: OldDesignator=R32 NewDesignator=R35
+Change Component Designator: OldDesignator=R33 NewDesignator=R36
+Added Component: Designator=R10(Resistor_TH_1/4W)
+Added Component: Designator=R11(Resistor_TH_1/4W)
+Added Component: Designator=R12(Resistor_TH_1/4W)
+Added Pin To Net: NetName=LED1 Pin=R10-2
+Added Pin To Net: NetName=LED2 Pin=R11-2
+Added Pin To Net: NetName=LED3 Pin=R12-1
+Added Pin To Net: NetName=NetD11_1 Pin=D11-1
+Added Pin To Net: NetName=NetD11_1 Pin=R10-1
+Added Net: Name=NetD11_1
+Added Pin To Net: NetName=NetD12_1 Pin=D12-1
+Added Pin To Net: NetName=NetD12_1 Pin=R11-1
+Added Net: Name=NetD12_1
+Added Pin To Net: NetName=NetD13_1 Pin=D13-1
+Added Pin To Net: NetName=NetD13_1 Pin=R12-2
+Added Net: Name=NetD13_1
+Added Member To Class: ClassName=Clock Segment Member=Component R1 Resistor
+Added Member To Class: ClassName=Clock Segment Member=Component R34 220
+Added Member To Class: ClassName=Clock Segment Member=Component R35 220
+Added Member To Class: ClassName=Clock Segment Member=Component R36 220
+Added Room: Name=Clock Segment

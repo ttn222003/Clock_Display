@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=CLK2 Pin=P2-2
+Removed Pin From Net: NetName=LAT2 Pin=P2-3
+Added Pin To Net: NetName=LAT2 Pin=P2-2
+Added Pin To Net: NetName=CLK2 Pin=P2-3
+Added Member To Class: ClassName=Clock Segment Member=Component P2 Header_1*6_Pins
+Added Room: Name=Clock Segment
